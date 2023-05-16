@@ -147,6 +147,6 @@ Antes de pasar tu cuenta a producción, te recomendamos realizar pruebas de inte
 
 
 ## Documentación
-¿Necesitas más información para integrar `watana-api-dodnet`? La documentación completa se encuentra en [https://ayuda.llama.pe/integracion](https://ayuda.llama.pe/integracion)
+¿Necesitas más información para integrar `watana-api-py`? La documentación completa se encuentra en [https://ayuda.llama.pe/integracion](https://ayuda.llama.pe/integracion)
 
 
